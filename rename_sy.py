@@ -2,8 +2,8 @@ import os
 import shutil
 
 
-input_dir = 'C:/Users/wing7/Desktop/fetch_0531_total/rui_xseg'  
-save_dir = 'C:/Users/wing7/Desktop/0603+rui' 
+input_dir = 'C:/Users/wing7/Desktop/fetch_0531_total/'  
+save_dir = 'C:/Users/wing7/Desktop/0603' 
 
 folder_name = os.path.basename(input_dir)
 # print("a : ",a) 폴더명
